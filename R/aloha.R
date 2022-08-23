@@ -19,3 +19,4 @@ say_aloha <- function(name) {
   cat(crayon::bgCyan(message))
 }
 
+# can change colors entering code color example bgYellow
